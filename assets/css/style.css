@@ -1,0 +1,200 @@
+*{
+	font-family: 'Roboto Slab', serif;
+}
+.bienvenida{
+    background: url('../img/portada.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:white;
+}
+
+.navbar-default{
+    background-color: transparent;
+    border: none;
+}
+nav li a{
+	color:white !important;
+}
+
+.contenido-bienv{
+    padding: 150px 0;
+}
+
+.btn-verde{
+    background-color: #41521F;
+    color: white;
+    font-weight: bolder;
+}
+.imgkoa img{
+	width:90%;
+	display: block;
+	margin:auto;
+	padding-top: 60px;
+}
+.informacion h6{
+	color: #000040;
+	font-size: 12px;
+	padding-top: 160px;
+}
+.informacion h1{
+	color:#41521F;
+	font-size: 25px;
+}
+.informacion p{
+	color:#000040;
+	font-size: 10px;
+}
+.columnas h3{
+	color:#41521F;
+	font-size: 16px;
+}
+.columnas p{
+	color:#000040;
+	font-size: 13px;
+}
+.enlace{
+	display: inline-block;
+}
+.easy{
+	background-color: #A89F68;
+	padding-top: 50px;
+
+}
+.help{
+	padding-top: 20px;
+}
+.help h4{
+	color:white;
+	font-size: 14px;
+}
+.help h1{
+	color:#41521F;
+	font-size: 25px;
+}
+.help p{
+	color:white;
+	font-size: 12px;
+	text-align: justify;
+
+}
+.btn-chico{
+	background-color: #41521F;
+	color:white;
+	font-size: 15px;
+
+}
+.centro{
+	padding-top:40px;
+	padding-left: 40px;
+	margin: auto;
+}
+.centro img{
+	width: 90%;
+	border:5px solid white;
+}
+
+.fototres{
+	background:url(../img/all.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:white;
+    width: 100%;
+    height: 800px;
+}
+
+.fototres{
+	padding-top: 30px;
+	text-align: justify;
+}
+
+.titulo{
+	padding-left: 270px;
+	padding-top: 40px;
+}
+
+.titulo h3{
+	font-size: 15px;
+	font-weight: bolder;
+}
+
+.titulo h4{
+	font-weight: bolder;
+}
+
+.titulo p{
+	font-size:10px;
+}
+
+.patitas{
+	background-color: whitesmoke;
+	padding: 100px;	
+}
+
+.patitas h3{
+	color:#A89F68;
+	font-weight: bolder;
+}
+
+.icono{
+	color:#A89F68;
+	font-size: 100px;
+}
+
+.parrafo{
+	color:#000040;
+	font-size: 12px;
+}
+
+.donate{
+	background-color:#A89F68; 
+	padding: 100px;
+}
+.donate h3{
+	color:#41521F;
+}
+.donate1 h6{
+	color:black;
+	font-weight: bolder;
+
+}
+.numeros{
+	color:white;
+	font-size:25px;
+}
+.month{
+	color:#000040;
+	font-size: 12px;
+}
+.foot{
+	background-color: #41521F;
+	padding: 50px;
+}
+.about h6{
+	color:#A89F68;
+}
+.australia{
+	color:white;
+	font-size: 15px;
+
+}
+.lado{
+	padding-left: 70px;
+}
+.lin{
+	color:#A89F68;
+	font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+/*
+wood brown: A89F68;
+army green: 41521F;
+*/
